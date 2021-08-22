@@ -7,7 +7,19 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-hans</language>
     <copyright>All rights reserved - 2021</copyright>
-    <lastBuildDate>Fri, 20 Aug 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://ObsidianArch02.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 22 Aug 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://ObsidianArch02.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Untitled1</title>
+      <link>https://ObsidianArch02.github.io/post/untitled1/</link>
+      <pubDate>Sun, 22 Aug 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://ObsidianArch02.github.io/post/untitled1/</guid>
+      <description>太痛苦了，在做一件事之前永远不知道做这件事有多困难……
+一开始： “Failed to connect to github.com port 443: Operation timed out” 再次尝试： “Failed to connect to github.com port 443: Operation timed out” …… 第4次尝试： “Failed to connect to github.com port 443: Operation timed out”
+骂骂咧咧报了一句粗口，然后再次尝试，就好了？
+是不是还看脸色啊？</description>
+    </item>
+    
     <item>
       <title>丢失记忆的恐惧</title>
       <link>https://ObsidianArch02.github.io/post/%E4%B8%A2%E5%A4%B1%E8%AE%B0%E5%BF%86%E7%9A%84%E6%81%90%E6%83%A7/</link>
@@ -87,15 +99,6 @@
       
       <guid>https://ObsidianArch02.github.io/post/%E6%B5%8B%E8%AF%95%E6%80%A7%E6%96%87%E6%A1%A32/</guid>
       <description></description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://ObsidianArch02.github.io/post/untitled1/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://ObsidianArch02.github.io/post/untitled1/</guid>
-      <description>太痛苦了，在做一件事之前永远不知道做这件事有多困难……</description>
     </item>
     
     <item>
